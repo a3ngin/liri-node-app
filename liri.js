@@ -81,5 +81,17 @@ function movie(){
     });
 }
 function filefun(){
-
+fs.readFile("random.txt", "utf8", function(error, data){
+    if(error) {
+        console.log(error);
+    }
+    var fileInfo = data.split(",");
+    var fileInfo2 = fileInfo[1].split(" ");
+    request = fileInfo[0];
+    info = fileInfo2[0];
+    for(i=1; i<fileInfo2.length; i++) {
+        info += "+" + fileInfo2[i];
+    }
+    start();
+})
 }
