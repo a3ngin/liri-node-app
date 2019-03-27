@@ -48,10 +48,7 @@
 
 <h2>**concert-this**</h2>
 
-
-<iframe src="https://giphy.com/embed/C9ZFUMBF2VayIcabVn" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C9ZFUMBF2VayIcabVn">via GIPHY</a></p>
-
-
+![](./assets/concert-this.gif)
 <h2>**spotify-this-song**</h2>
 
 <h2>**movie-this**</h2>
