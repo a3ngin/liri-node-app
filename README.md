@@ -49,9 +49,16 @@
 <h2>**concert-this**</h2>
 
 ![](./assets/concert-this.gif)
+
+
 <h2>**spotify-this-song**</h2>
+
+![](./assets/spotify-this.gif)
 
 <h2>**movie-this**</h2>
 
+![](./assets/movie-this.gif)
+
 <h2>**do-what-it-says**</h2>
 
+![](./assets/do-what-it-saysR.gif)
