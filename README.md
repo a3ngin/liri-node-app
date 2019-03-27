@@ -47,3 +47,11 @@
         * "LIRI" will use text from random.txt & call one of it's commands using the `fs` Node package
 
 <h2>**concert-this**</h2>
+https://media.giphy.com/media/C9ZFUMBF2VayIcabVn/giphy.gif
+
+<h2>**spotify-this-song**</h2>
+
+<h2>**movie-this**</h2>
+
+<h2>**do-what-it-says**</h2>
+
