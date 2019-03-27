@@ -47,9 +47,9 @@
         * "LIRI" will use text from random.txt & call one of it's commands using the `fs` Node package
 
 <h2>**concert-this**</h2>
-https://media.giphy.com/media/C9ZFUMBF2VayIcabVn/giphy.gif
 
-https://giphy.com/gifs/C9ZFUMBF2VayIcabVn/html5
+
+<iframe src="https://giphy.com/embed/C9ZFUMBF2VayIcabVn" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C9ZFUMBF2VayIcabVn">via GIPHY</a></p>
 
 
 <h2>**spotify-this-song**</h2>
